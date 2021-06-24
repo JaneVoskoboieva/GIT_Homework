@@ -1,3 +1,6 @@
 def make_noise():
 	return print("THE CROWD GOES WILD")
 make_noise()
+
+def yell(x):
+	return x.upper()
